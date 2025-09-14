@@ -117,4 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="nen_mo_qua" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nen_mo_qua.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="doremon_cuoi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\doremon_cuoi.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="vua_tieng_viet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\vua_tieng_viet.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="meo_capo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meo_capo.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nen_choi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nen_choi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="267574_small" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\267574_small.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
